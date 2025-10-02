@@ -21,6 +21,7 @@ I used an online password strength checker (such as Kaspersky Password Checker a
 
 Step 3: Recorded Scores and Feedback
 <img width="879" height="235" alt="image" src="https://github.com/user-attachments/assets/6dc886b1-9342-437c-abd8-4b838d5af7c0" />
+
 Step 4: Identified Best Practices
 From the results, I identified that the following factors make a password strong:
 
