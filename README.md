@@ -3,8 +3,8 @@ Objective
 
 The goal of this task is to create multiple passwords of varying complexity, evaluate their strength using password strength checkers, and learn best practices for designing secure passwords that resist common attacks.
 
-Steps Taken
-
+**Steps Taken
+**
 Step 1: Created Multiple Passwords
 I generated a few sample passwords with different levels of complexity:
 
